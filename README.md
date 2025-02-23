@@ -4,7 +4,7 @@
 ## Step 1: Clone the Repository  
 
 ```sh
-git clone <repository_url>
+git clone https://github.com/EidMaroun/CareerSwipe
 ```
   
 
